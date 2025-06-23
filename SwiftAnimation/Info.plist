@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Ubuntu-Regular.ttf</string>
+        <string>Ubuntu-Bold.ttf</string>
+        <string>Ubuntu-Italic.ttf</string>
+        <string>Ubuntu-Medium.ttf</string>
+        <string>Ubuntu-LightItalic.ttf</string>
+        <string>Ubuntu-BoldItalic.ttf</string>
+        <string>Ubuntu-Light.ttf</string>
+        <string>Ubuntu-MediumItalic.ttf</string>
+        <string>NocturneSerifTest-Bold-uploaded-63b633da1aee8.otf</string>
+        <string>NocturneSerifTest-Light-uploaded-63b633de34924.otf</string>
+        <string>NocturneSerifTest-Medium-uploaded-63b633de32d04.otf</string>
+        <string>NocturneSerifTest-Regular-uploaded-63b633de2e1c7.otf</string>
+        <string>NocturneSerifTest-SemiBold-uploaded-63b633de3d9aa.otf</string>
+	</array>
+</dict>
+</plist>
